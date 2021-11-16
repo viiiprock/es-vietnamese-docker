@@ -1,5 +1,5 @@
 # es-vietnamese-docker
-This is a mi
+
 **Disclaimer** 
 Fixed me if you have any idea to make Docker steps cleaner
 - This repo is for single node ES, you can update the docker build as your requirements.

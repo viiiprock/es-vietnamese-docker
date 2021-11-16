@@ -1,8 +1,9 @@
 # es-vietnamese-docker
 This is a mi
 **Disclaimer** 
+Fixed me if you have any idea to make Docker steps cleaner
 - This repo is for single node ES, you can update the docker build as your requirements.
-- I don't know how Java, or C++ package build works, some steps may be can do inside Docker.
+- I don't know how Java, or C++ package build works, some steps may be can do inside Docker. 
 
 # Steps to add Vietnamese es plugin
 
